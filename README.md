@@ -14,7 +14,7 @@ This project uses CrewAI to create an intelligent agent pipeline that:
 pip install -r requirements.txt
 python main.py
 
-(venv) PS C:\Users\piyus\Desktop\Desktop\Appln_using_crewAI> python main.py
+(venv) PS C:\Users\directory_location> python main.py
 ╭─────────────────────────────────────────────────────────────────── Crew Execution Started ────────────────────────────────────────────────────────────────────╮
 │                                                                                                                                                               │
 │  Crew Execution Started                                                                                                                                       │
